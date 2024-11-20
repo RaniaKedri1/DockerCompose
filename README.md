@@ -54,3 +54,7 @@ Docker Compose est utilisé pour gérer les différents services de l'applicatio
 
 5. Accédez au client à [http://localhost:3000](http://localhost:3000).
 
+
+![image](https://github.com/user-attachments/assets/6a3cd772-0d2f-4012-bc74-da2e761e6906)
+
+
